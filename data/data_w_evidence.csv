@@ -1,0 +1,206 @@
+data_source,query_id,description,query,label,evident_pubmed_id
+2019,1,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0,23076891
+2019,3,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0,30480774
+2019,5,Can acupuncture prevent migraines?,acupuncture migraine,1.0,27351677
+2019,6,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0,25918920
+2019,7,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0,10796639
+2019,8,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0,11279722
+2019,11,Can exercises relieve lower back pain?,exercise lower back pain,1.0,16034851
+2019,12,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0,19370585
+2019,13,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0,18253994
+2019,16,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0,22972143
+2019,17,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0,18425875
+2019,18,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0,23740763
+2019,19,Can honey offer relief from cough symptoms in children?,honey children cough,1.0,29633783
+2019,20,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0,22258943
+2019,22,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0,21154375
+2019,27,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0,30062732
+2019,28,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0,17636756
+2019,29,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0,23733365
+2019,32,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0,23543524
+2019,33,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0,20927723
+2019,34,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0,30288727
+2019,36,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0,28759120
+2019,37,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0,16235372
+2019,38,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0,23959683
+2019,39,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0,12804507
+2019,40,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0,22972104
+2019,41,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0,20238336
+2019,42,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0,30480774
+2019,44,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0,15846704
+2019,45,Can caffeine help people with asthma?,caffeine asthma,1.0,20091514
+2019,47,Can insoles treat back pain?,insoles back pain,0.0,17943845
+2019,49,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0,10796400
+2019,50,Is bariatric surgery effective for obesity?,surgery obesity,1.0,25105982
+2019,51,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0,23760885
+2021,101,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0,21670110
+2021,102,Is a tepid sponge bath a good way to reduce fever in children?,tepid sponge bath reduce fever children,0.0,9115527
+2021,103,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0,14584018
+2021,104,Does duct tape work for wart removal?,duct tape warts,0.0,22972052
+2021,105,Should I apply ice to a burn?,put ice on a burn,0.0,
+2021,106,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0,9394983
+2021,107,Does yoga improve the management of asthma?,yoga asthma,1.0,27115477
+2021,108,Is starving a fever effective?,"starve a fever, feed a cold",0.0,25688968
+2021,109,Does selenium help prevent cancer?,selenium cancer,0.0,29376219
+2021,110,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0,24782304
+2021,111,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0,33724446
+2021,112,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0,14670851
+2021,113,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0,27033333
+2021,114,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0,10417589
+2021,115,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0,29131326
+2021,116,Does exercise help manage diabetes?,exercise diabetes,1.0,16855995
+2021,117,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0,22513955
+2021,118,Can dupixent treat eczema?,dupixent eczema,1.0,32927498
+2021,119,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0,30075589
+2021,120,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0,22336867
+2021,121,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0,15106233
+2021,122,Does Aleve relieve migraine headaches?,aleve migraine,0.0,24142263
+2021,123,Can I get rid of a pimple overnight by applying toothpaste?,toothpaste pimple overnight,0.0,
+2021,124,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0,25629804
+2021,125,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0,31422671
+2021,126,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0,25927096
+2021,127,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0,27091583
+2021,128,Does steam from a shower help croup?,steam shower croup,0.0,
+2021,129,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0,27225981
+2021,130,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0,
+2021,131,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0,31758301
+2021,132,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0,28849871
+2021,133,Does exercise improve the symptoms of depression? ,exercise depression,1.0,24026850
+2021,134,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0,4000801
+2021,135,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0,19436525
+2021,136,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0,31908568
+2021,137,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0,
+2021,138,Can zinc help treat the common cold?,zinc common cold,1.0,23775705
+2021,139,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0,24066023
+2021,140,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0,17636672
+2021,141,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0,25255817
+2021,142,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0,31039287
+2021,143,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0,16437479
+2021,144,Can music therapy help manage depression?,music therapy depression,1.0,29144545
+2021,145,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0,12505817
+2021,146,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0,27595415
+2021,147,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0,17054183
+2021,148,Does chitosan help lose body weight?,chitosan weight loss,0.0,18646097
+2021,149,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0,24756895
+2021,150,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0,32851663
+misbelief,201,Does celandine help with cancer?,celandine help cancer,0.0,31465980
+misbelief,202,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0,31384426
+misbelief,203,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0,15846671
+misbelief,204,Does chamomile help with thrush?,chamomile help thrush,0.0,22376030
+misbelief,205,Does garlic help with thrush?,garlic help thrush,0.0,25775428
+misbelief,206,Does aloe help for a runny nose?,aloe help runny nose,0.0,32924222
+misbelief,207,Does garlic help with toothache?,garlic help toothache,0.0,25198327
+misbelief,208,Can pregnant women drink coffee?,pregnant drink coffee,0.0,26026343
+misbelief,209,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0,32028419
+misbelief,210,Does ginger help with cough?,ginger help cough,1.0,26522239
+misbelief,211,Does licorice root help with cough?,licorice root help cough,1.0,27650551
+misbelief,212,Does echinacea boost immunity?,echinacea boost immunity,1.0,30373170
+misbelief,213,Does honey boost immunity?,honey boost immunity,1.0,26061489
+misbelief,214,Does garlic kill viruses?,garlic kill viruses,1.0,32836826
+misbelief,215,Does onion kill viruses?,onion kill viruses,1.0,32210182
+health_belief,1_h,Does smoking cause death?,smoking causes death,1.0,
+health_belief,2_h,Does skin product cause aging?,skin product causes aging,0.0,
+health_belief,3_h,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0,
+health_belief,4_h,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0,
+health_belief,5_h,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0,
+health_belief,6_h,Does antidepressant cause depression?,antidepressant causes depression,1.0,
+health_belief,7_h,Does stress cause sickness?,stress causes sickness,1.0,
+health_belief,8_h,Does medication cause hair loss?,medication causes hair loss,1.0,
+health_belief,9_h,Does milk cause acne?,milk causes acne,1.0,
+health_belief,10_h,Does milk cause osteoporosis?,milk causes osteoporosis,0.0,
+health_belief,11_h,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0,
+health_belief,12_h,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0,
+health_belief,13_h,Does diet cause bad breathe?,diet causes bad breathe,1.0,
+health_belief,14_h,Does listeria cause miscarriage?,listeria causes miscarriage,1.0,
+wh_topics,0_WH,Does clomiphene citrate increase fertility?,clomiphene citrate subfertility,0.0,
+wh_topics,1_WH,Do antibiotics treat comon cold?,antibiotics common cold,0.0,
+wh_topics,2_WH,Are antibiotics useful for purulent rhinitis?,antibiotics purulent rhinitis,0.0,
+wh_topics,3_WH,Is magnesium sulfate used to treat asthma?,magnesium sulfate asthma,0.0,
+wh_topics,4_WH,Will surgery help to treat nonarteritic anterior ischemic optic neuropathy?,surgery nonarteritic anterior ischemic optic neuropathy,0.0,
+wh_topics,5_WH,Will surgery help to treat small asymptomatic abdominal aortic aneurysms?,surgery small asymptomatic abdominal aortic aneurysms,0.0,
+wh_topics,6_WH,Does screening lung cancer reduce mortality?,screening lung cancer reduce mortality,0.0,
+wh_topics,7_WH,Does HRT protect postmenopausal heart disease?,hormone therapy heart disease postmenopausal women,0.0,
+wh_topics,8_WH,Does fluoride help with postmenopausal osteoporosis?,fluoride postmenopausal osteoporosis,0.0,
+wh_topics,9_WH,Does melatonin help with cognitive impairment?,melatonin cognitive impairment,0.0,
+wh_topics,10_WH,Does tinnitus from antidepressants go away?,antidepressants tinnitus,0.0,
+wh_topics,11_WH,Is acupuncture effective for stroke?,acupuncture stroke,0.0,
+wh_topics,12_WH,Do antibiotics treat laryngitis?,antibiotics laryngitis,0.0,
+wh_topics,13_WH,Does magnesium help with brain injury?,magnesium traumatic brain injury,0.0,
+wh_topics,14_WH,Is magnesium sulfate good for persistent pulmonary hypertension newborn?,magnesium sulfate persistent pulmonary hypertension newborn,0.0,
+wh_topics,15_WH,Can antipsychotics treat delirium?,antipsychotics delirium,0.0,
+wh_topics,16_WH,Do steroids treat traumatic optic neuropathy?,steroids traumatic optic neuropathy,0.0,
+wh_topics,17_WH,Can lamotrigine help with chronic pain?,lamotrigine chronic pain,0.0,
+wh_topics,18_WH,Can oral contraceptives shrink ovarian cysts?,oral contraceptives functional ovarian cysts,0.0,
+wh_topics,19_WH,Do thyroid hormones treat kidney injury?,thyroid hormones kidney injury,0.0,
+wh_topics,20_WH,Does methotrexate remission help maintain ulcerative colitis?,methotrexate remission maintenance ulcerative colitis,0.0,
+wh_topics,21_WH,Can beta blockers be used for stroke?,beta-blockers stroke,0.0,
+wh_topics,22_WH,Does acupuncture help with hypoxic ischemic encephalopathy newborn?,acupuncture hypoxic ischemic encephalopathy newborn,0.0,
+wh_topics,23_WH,Does topiramate help with nerve pain?,topiramate neuropathic pain fibromyalgia adults,0.0,
+wh_topics,24_WH,Are muscle relaxers good for rheumatoid arthritis?,muscle relaxants rheumatoid pain,0.0,
+wh_topics,25_WH,Will antibiotics get rid of diverticulitis?,antibiotics diverticulitis,0.0,
+wh_topics,26_WH,Is clonazepam good for nerve pain?,clonazepam neuropathic pain fibromyalgia,0.0,
+wh_topics,27_WH,Are corticosteroids indicated for TBI?,corticosteroids traumatic brain injury,0.0,
+wh_topics,28_WH,Is a mammogram the best way to prevent breast cancer?,mammography screening breast cancer reduce mortality,0.0,
+wh_topics,29_WH,Is hyperbaric oxygen therapy good for autoimmune disease?,hyperbaric oxygen sclerosis,0.0,
+wh_topics,30_WH,Should you dress an infected wound?,dressings surgical site infection,0.0,
+wh_topics,31_WH,Is interferon used to cure the majority of cases of chronic HCV?,interferon nonresponding relapsing chronic hepatitis c,0.0,
+wh_topics,32_WH,Is acupuncture good for depression?,acupuncture depression,0.0,
+wh_topics,33_WH,Can probiotics help Clostridium difficile?,probiotics clostridium difficile-associated colitis,0.0,
+wh_topics,34_WH,Can a kidney transplant patient take fish oil?,fish oil kidney transplant,0.0,
+wh_topics,35_WH,Does the malaria vaccine prevent malaria?,vaccines malaria spf66,0.0,
+wh_topics,36_WH,Can HRT help for endometriosis after hysterectomy?,hormone therapy endometriosis surgical menopause,0.0,
+wh_topics,37_WH,Does methotrexate help ulcerative colitis?,methotrexate steroid free remission,0.0,
+wh_topics,38_WH,Can speech therapy help children with dysarthria?,speech therapy children dysarthria,0.0,
+wh_topics,39_WH,Can hypnosis help children with a dental anxiety?,hypnosis dental children,0.0,
+wh_topics,40_WH,Are antioxidants good for fertility?,antioxidants female subfertility,0.0,
+wh_topics,41_WH,Is acupuncture good for endometriosis pain?,acupuncture endometriosis pain,0.0,
+wh_topics,42_WH,Do antidepressants help with arthritis pain?,antidepressants rheumatoid arthritis pain,0.0,
+wh_topics,43_WH,Can hyperbaric oxygen therapy help vascular dementia?,hyperbaric oxygen therapy vascular dementia,0.0,
+wh_topics,44_WH,Are antibiotics indicated in bronchiolitis?,antibiotics bronchiolitis cough children,0.0,
+wh_topics,45_WH,Can antibiotics help for a sore throat?,antibiotics sore throat,1.0,
+wh_topics,46_WH,Will antibiotics clear up bronchitis?,antibiotics bronchitis,1.0,
+wh_topics,47_WH,Is interferon used to treat chronic hepatitis C?,interferon naive chronic hepatitis c,1.0,
+wh_topics,48_WH,Can methotrexate cure rheumatoid arthritis?,methotrexate rheumatoid arthritis,1.0,
+wh_topics,49_WH,Will an antibiotic clear up a UTI?,antibiotics urinary tract infection women,1.0,
+wh_topics,50_WH,does laparoscopic surgery help pelvic pain associated with endometriosis,laparoscopic surgery pelvic pain associated endometriosis,1.0,
+wh_topics,51_WH,does laparoscopic surgery help subfertility associated with endometriosis,laparoscopic surgery subfertility associated endometriosis,1.0,
+wh_topics,52_WH,Does newborn screening for cystic fibrosis improve clinical outcomes?,newborn screening cystic fibrosis,1.0,
+wh_topics,53_WH,Does eating less protein help kidney function?,low protein diets chronic kidney disease,1.0,
+wh_topics,54_WH,Does carotid endarterectomy cure asymptomatic carotid stenosis?,carotid endarterectomy asymptomatic carotid stenosis,1.0,
+wh_topics,55_WH,Can you treat osteoarthritis with acupuncture?,acupuncture peripheral joint osteoarthritis,1.0,
+wh_topics,56_WH,Do you give hydroxyurea in sickle cell crisis?,hydroxyurea sickle cell disease,1.0,
+wh_topics,57_WH,Can you treat varicella with acyclovir?,acyclovir varicella,1.0,
+wh_topics,58_WH,does methotrexate help juvenile idiopathic arthritis,methotrexate juvenile idiopathic arthritis,1.0,
+wh_topics,59_WH,does aromatherapy help dementia,aromatherapy dementia,1.0,
+wh_topics,60_WH,Does memantine improve dementia?,memantine dementia,1.0,
+wh_topics,61_WH,do aromatase inhibitors help breast cancer in postmenopausal women,do aromatase inhibitors breast cancer in postmenopausal women,1.0,
+wh_topics,62_WH,can folate alleviate depression,folate depressive disorders,1.0,
+wh_topics,63_WH,Does hydromorphone help with acute chronic pain,hydromorphone acute chronic pain,1.0,
+wh_topics,64_WH,is indomethacin indicated for asymptomatic patent ductus arteriosus ,indomethacin asymptomatic patent ductus arteriosus preterm infants,1.0,
+wh_topics,65_WH,Does exercise help fibromyalgia syndrome,exercise fibromyalgia syndrome,1.0,
+wh_topics,66_WH,How effective are diuretics for heart failure?,diuretics heart failure,1.0,
+wh_topics,67_WH,Is exercise good for peripheral neuropathy?,exercise peripheral neuropathy,1.0,
+wh_topics,68_WH,Will lidocaine help a sore throat after intubation?,lidocaine intubation sore throat,1.0,
+wh_topics,69_WH,does amitriptyline help depression,amitriptyline depression,1.0,
+wh_topics,70_WH,Can acetaminophen be used for osteoarthritis?,acetaminophen osteoarthritis,1.0,
+wh_topics,71_WH,is surgery indicated for early-stage lung cancer,surgery early lung cancer,1.0,
+wh_topics,72_WH,Does hydralazine treat hypertension?,hydralazine hypertension,1.0,
+wh_topics,73_WH,Is sildenafil useful for pulmonary hypertension in newborn?,sildenafil pulmonary hypertension newborn,1.0,
+wh_topics,74_WH,Can diclofenac be used in children?,diclofenac pain children,1.0,
+wh_topics,75_WH,Are medications useful for mothers milk supply?,medications mothers milk supply,1.0,
+wh_topics,76_WH,Do antidepressants help with schizophrenia?,antidepressants schizophrenia,1.0,
+wh_topics,77_WH,Can probiotics help Clostridium difficile?,probiotics clostridium difficile-associated diarrhea,1.0,
+wh_topics,78_WH,Can mupirocin ointment help with staphylococcus aureus infections nasal carriers?,mupirocin ointment staphylococcus aureus infections nasal carriers,1.0,
+wh_topics,79_WH,Does chemotherapy treat cervical cancer?,chemotherapy cervical cancer,1.0,
+wh_topics,80_WH,Does acyclovir help with primary herpetic gingivostomatitis?,acyclovir primary herpetic gingivostomatitis,1.0,
+wh_topics,81_WH,Does music help the brain heal?,music therapy brain injury,1.0,
+wh_topics,82_WH,Is acupuncture a good treatment for fibromyalgia?,acupuncture fibromyalgia,1.0,
+wh_topics,83_WH,Can alprazolam treat depression?,alprazolam depression,1.0,
+wh_topics,84_WH,Does gabapentin get rid of Neuropathy?,gabapentin neuropathic pain,1.0,
+wh_topics,85_WH,Does surgery help with shoulder osteoarthritis?,surgery shoulder osteoarthritis,1.0,
+wh_topics,86_WH,Is curcumin good for ulcerative colitis?,curcumin remission ulcerative colitis,1.0,
+wh_topics,87_WH,Can antiretroviral therapy prevent HIV transmission?,antiretroviral therapy HIV transmission,1.0,
+wh_topics,88_WH,Does hormone therapy affect sexual function in women?,hormone therapy sexual function women,1.0,
+wh_topics,89_WH,Is splinting useful for carpal tunnel syndrome?,splinting carpal tunnel syndrome,1.0,
