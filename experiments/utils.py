@@ -8,8 +8,8 @@ from nltk.stem import WordNetLemmatizer
 from sklearn.metrics import roc_auc_score
 import numpy as np
 
-API_KEY = "AIzaSyCJ9RqM0zOTRvjMFeefMk2oEI79bpBKr9Y"
-SEARCH_ENGINE_ID = "d147d5b2fd46144ce"
+API_KEY = "<GOOGLE_API_KEY>"
+SEARCH_ENGINE_ID = "<SEARCH_ENGINE_ID>"
 
 template_url = "https://pubmed.ncbi.nlm.nih.gov/<doc_id>/"
 
