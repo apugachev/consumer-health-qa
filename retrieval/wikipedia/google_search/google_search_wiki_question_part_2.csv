@@ -1,0 +1,171 @@
+query_id,data_source,pubmed_id,description,query,label
+212,misbelief,https://en.wikipedia.org/wiki/Airborne_(dietary_supplement),Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Rudbeckia_hirta,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Herbal_tea,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Native_American_ethnobotany,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Aphrodisiac,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Dietary_supplement,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://hi.wikipedia.org/wiki/%E0%A4%94%E0%A4%B7%E0%A4%A7%E0%A5%80%E0%A4%AF_%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%AA%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Monarch_butterfly,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Talk%3ABody_cleansing/Archive_1,Does echinacea boost immunity?,echinacea boost immunity,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Garlic,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Cat_health,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(1964_film),Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/I_Am_Legend_(novel),Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Dragon_Ball_Z_(season_4),Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Vampire,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Common_cold,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Scurvy,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Food_irradiation,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Botulism,Does garlic kill viruses?,garlic kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Food_irradiation,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Cat_health,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Cassava_mosaic_virus,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Scurvy,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_methods_against_COVID-19,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Columbian_exchange,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Garlic,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Canine_distemper,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Aster_yellows,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Cacao_swollen_shoot_virus,Does onion kill viruses?,onion kill viruses,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Health_effects_of_tobacco,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Smoking,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Preventable_causes_of_death,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Tobacco_smoking,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Passive_smoking,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Tobacco_packaging_warning_messages,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Smoke_inhalation,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Pop_Smoke,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Death_in_the_West,Does smoking cause death?,smoking causes death,1.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Ageing,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Wrinkle,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Anti-aging_product,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Advanced_glycation_end-product,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Skin_care,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Collagen_loss,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Photoaging,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Senescence,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Human_skin,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Liver_spot,Does skin product cause aging?,skin product causes aging,0.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Breast_cancer_chemotherapy,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/History_of_cancer_chemotherapy,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Doxorubicin,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Chemotherapy,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Gemcitabine,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/High-dose_chemotherapy_and_bone_marrow_transplant,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Jerri_Nielsen,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Triple-negative_breast_cancer,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Capecitabine,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+3_h,health_belief,https://en.wikipedia.org/wiki/Methotrexate,Does chemotherapy treat breast cancer?,chemotherapy treats breast cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Oral_sex,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/HPV-positive_oropharyngeal_cancer,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Fellatio,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Oropharyngeal_cancer,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Head_and_neck_cancer,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Cunnilingus,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Laryngeal_cancer,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Human_papillomavirus_infection,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+4_h,health_belief,https://en.wikipedia.org/wiki/Oral_cancer,Does oral sex cause throat cancer?,oral sex causes throat cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Smokeless_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Smokeless_tobacco_keratosis,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Gruen_Von_Behrens,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Snuff_(tobacco),Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Snus,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Dipping_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Chewing_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Head_and_neck_cancer,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Health_effects_of_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Major_depressive_disorder,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Treatment-resistant_depression,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Epigenetics_of_depression,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Antidepressant,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Animal_models_of_depression,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Antidepressant_discontinuation_syndrome,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Antidepressants_and_suicide_risk,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Pseudodementia,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Tricyclic_antidepressant,Does antidepressant cause depression?,antidepressant causes depression,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Unnatural_Causes:_Is_Inequality_Making_Us_Sick%3F,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Euthyroid_sick_syndrome,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Hypoxia_(medical),Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Havana_syndrome,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Combat_stress_reaction,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Sick_building_syndrome,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Altitude_sickness,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Sickness_behavior,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Leisure_sickness,Does stress cause sickness?,stress causes sickness,1.0
+7_h,health_belief,https://en.wikipedia.org/wiki/Chronic_stress,Does stress cause sickness?,stress causes sickness,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Hair_loss,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Management_of_hair_loss,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Pattern_hair_loss,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Alopecia_areata,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Scarring_hair_loss,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Non_scarring_hair_loss,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Hypertrichosis,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Finasteride,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Madarosis,Does medication cause hair loss?,medication causes hair loss,1.0
+8_h,health_belief,https://en.wikipedia.org/wiki/Spironolactone,Does medication cause hair loss?,medication causes hair loss,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Teenage_Mutant_Milk-Caused_Hurdles,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Acne,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Chocolate,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://simple.wikipedia.org/wiki/Acne,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Minocycline,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Milium_(dermatology),Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Chhurpi,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Spironolactone,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Doxycycline,Does milk cause acne?,milk causes acne,1.0
+9_h,health_belief,https://en.wikipedia.org/wiki/Health_effects_of_chocolate,Does milk cause acne?,milk causes acne,1.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Milk-alkali_syndrome,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Osteoblast_milk_protein,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Osteoporosis,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Vitamin_D,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Talk%3AOsteoporosis,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Vitamin_D_deficiency,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Acid_ash_hypothesis,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Galactorrhea_hyperprolactinemia,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Prolactinoma,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Nasal_polyp,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Nasal_congestion,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Aspirin_exacerbated_respiratory_disease,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Rhinorrhea,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Anosmia,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Rhinolith,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Empty_nose_syndrome,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Nasal_septal_hematoma,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Sinusitis,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+11_h,health_belief,https://en.wikipedia.org/wiki/Mouth_breathing,Does nasal polyp cause nasal block?,nasal polyp causes nasal block,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Tadalafil,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Prostate_cancer,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Sildenafil,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Finasteride,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Tamsulosin,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Alpha_blocker,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/ExtenZe,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+12_h,health_belief,https://en.wikipedia.org/wiki/Category:Erectile_dysfunction_drugs,Does cialis treat enlarged prostrate?,cialis treats enlarged prostrate,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Garlic_breath,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Rumination_syndrome,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Miscellaneous/2012_August_1,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Oral_hygiene,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Scurvy,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Lactose_intolerance,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/High-protein_diet,Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Calculus_(dental),Does diet cause bad breathe?,diet causes bad breathe,1.0
+13_h,health_belief,https://en.wikipedia.org/wiki/Scarsdale_diet,Does diet cause bad breathe?,diet causes bad breathe,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/Listeriosis,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/Recurrent_miscarriage,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/2011_United_States_listeriosis_outbreak,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/Listeria,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/List_of_foodborne_illness_outbreaks_by_death_toll,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/List_of_foodborne_illness_outbreaks_in_the_United_States,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/Postpartum_infections,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,"https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/Leptospirosis,Does listeria cause miscarriage?,listeria causes miscarriage,1.0
+14_h,health_belief,https://en.wikipedia.org/wiki/Cheese_plate,Does listeria cause miscarriage?,listeria causes miscarriage,1.0

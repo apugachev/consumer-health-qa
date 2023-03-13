@@ -1,0 +1,1044 @@
+query_id,data_source,pubmed_id,description,query,label
+1,2019,https://en.wikipedia.org/wiki/Cranberry,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/Cranberry_juice,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/Urinary_tract_infection,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/Proanthocyanidin,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/Talk%3ACranberry,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://simple.wikipedia.org/wiki/Cranberry_juice,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/A-type_proanthocyanidin,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/Pyelonephritis,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://en.wikipedia.org/wiki/Vaccinium_macrocarpon,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+1,2019,https://simple.wikipedia.org/wiki/Urinary_tract_infection,Can cranberries prevent urinary tract infections?,cranberries urinary tract infections,0.0
+3,2019,https://en.wikipedia.org/wiki/Epilepsy,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Acupuncture,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Frontal_lobe_epilepsy,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Feline_hyperesthesia_syndrome,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Talk%3AAcupuncture%2Fsandbox,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Talk%3AAcupuncture%2FArchive_3,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Trepanning,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Electroanalgesia,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Moxibustion,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+3,2019,https://en.wikipedia.org/wiki/Harborside_Health_Center,Can acupuncture be effective for people with epilepsy?,acupuncture epilepsy,0.0
+5,2019,https://en.wikipedia.org/wiki/German_acupuncture_trials,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Management_of_chronic_headaches,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Cephalalgiaphobia,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Prevention_of_migraine_attacks,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Klaus_Linde,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Acupuncture,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Hua_Tuo,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Migraine,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Headache,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+5,2019,https://en.wikipedia.org/wiki/Talk%3AAcupuncture%2Fsandbox,Can acupuncture prevent migraines?,acupuncture migraine,1.0
+6,2019,https://en.wikipedia.org/wiki/Amygdalin,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Ernst_T._Krebs,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Kanematsu_Sugiura,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Ernesto_Contreras_(physician),Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Apricot_kernel,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Oasis_of_Hope_Hospital,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/G._Edward_Griffin,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Talk%3AErnst_T._Krebs,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Talk%3AG._Edward_Griffin%2FArchive_6,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+6,2019,https://en.wikipedia.org/wiki/Talk%3AG._Edward_Griffin%2FArchive_3,Is amygdalin or laetrile an effective cancer treatment?,amygdalin laetrile cancer,0.0
+7,2019,https://en.wikipedia.org/wiki/Vascular_dementia,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Prevention_of_dementia,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Caerphilly_Heart_Disease_Study,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Aspirin_exacerbated_respiratory_disease,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Aspirin,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Cerebrovascular_disease,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Watershed_stroke,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Labile_hypertension,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+7,2019,https://en.wikipedia.org/wiki/Cerebral_atherosclerosis,Can aspirin improve the lives of people with vascular dementia?,aspirin vascular dementia,0.0
+8,2019,https://en.wikipedia.org/wiki/Jet_lag,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Melatonin_(supplement/medication),Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Delayed_sleep_phase_disorder,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Melatonin,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Charmane_Eastman,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Talk%3AJet_lag,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://simple.wikipedia.org/wiki/Jet_lag,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Phase_response_curve,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://de.wikipedia.org/wiki/Jetlag,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+8,2019,https://en.wikipedia.org/wiki/Shift_work_sleep_disorder,Can melatonin be used to reduce jet lag?,melatonin jet lag,1.0
+11,2019,https://en.wikipedia.org/wiki/Low_back_pain,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Back_pain,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Neurogenic_claudication,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Talk%3ALow_back_pain,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Modic_changes,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Williams_Flexion_Exercises,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Pilates,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/McKenzie_method,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Pelvic_lift,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+11,2019,https://en.wikipedia.org/wiki/Neck_pain,Can exercises relieve lower back pain?,exercise lower back pain,1.0
+12,2019,https://en.wikipedia.org/wiki/Circumcision_and_HIV,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Circumcision,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Talk%3ACircumcision_and_HIV,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Robert_Bailey_(epidemiologist),Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Prevalence_of_circumcision,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Talk%3ACircumcision%2FArchive_73,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Talk%3ACircumcision%2FArchive_44,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Circumcision_in_Africa,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Talk%3ACircumcision%2FArchive_71,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+12,2019,https://en.wikipedia.org/wiki/Talk%3ACircumcision_surgical_procedure,Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?,circumcision hiv,1.0
+13,2019,https://en.wikipedia.org/wiki/Major_depressive_disorder,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Low_back_pain,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Back_pain,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Antidepressants_in_Japan,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Pain_management,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Antidepressant,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Failed_back_syndrome,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Tricyclic_antidepressant_overdose,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+13,2019,https://en.wikipedia.org/wiki/Akathisia,Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.,antidepressants low-back pain,0.0
+16,2019,https://en.wikipedia.org/wiki/Cramp,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Magnesium_deficiency,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Tetany,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Magnesium_salicylate,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Hypoparathyroidism,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Calcium_pump,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Chvostek_sign,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Antispasmodic,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Magnesium_oil,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+16,2019,https://en.wikipedia.org/wiki/Gitelman_syndrome,Can magnesium prevent muscle cramps?,magnesium muscle cramps,0.0
+17,2019,https://en.wikipedia.org/wiki/Low_back_pain,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Lumbar,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Back_belt,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Back_brace,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Middle_back_pain,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Back_pain,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Back_(horse),Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Lumbar_vertebrae,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Lumbar_spinal_stenosis,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+17,2019,https://en.wikipedia.org/wiki/Radiculopathy,Can lumbar supports treat or prevent lower back pain?,lumbar supports lower back pain,0.0
+18,2019,https://en.wikipedia.org/wiki/Urinary_incontinence,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Overactive_bladder,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Transcutaneous_electrical_nerve_stimulation,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Sebastian_Wille,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Fecal_incontinence,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Radical_retropubic_prostatectomy,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Urination,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Treatments_for_overactive_bladder,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Sexuality_after_spinal_cord_injury,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+18,2019,https://en.wikipedia.org/wiki/Enuresis,Can electrical stimulation devices treat male urinary incontinence?,electrical stimulation male urinary incontinence,0.0
+19,2019,https://en.wikipedia.org/wiki/Honey,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Cough,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Paregoric,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Cold_medicine,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Luden%27s,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Halls_(cough_drop),Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Roger_Rabbit_short_films,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Throat_lozenge,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+19,2019,https://en.wikipedia.org/wiki/Lockets,Can honey offer relief from cough symptoms in children?,honey children cough,1.0
+20,2019,https://en.wikipedia.org/wiki/Spinal_cord_injury,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Myelomalacia,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Epidural_steroid_injection,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/3%CE%B2-Methoxypregnenolone,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Cochrane/Cochrane_Review_List/Acute_and_Emergency_Care,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Arachnoiditis,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Brown-S%C3%A9quard_syndrome,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/New_England_Compounding_Center_meningitis_outbreak,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Neurapraxia,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+20,2019,https://en.wikipedia.org/wiki/Baclofen,Can steroids be used as a treatment for spinal cord injury?,steroids spinal cord injury,1.0
+22,2019,https://en.wikipedia.org/wiki/Hydroxyzine,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Talk%3AHydroxyzine,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Anxiolytic,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Alprazolam,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Generalized_anxiety_disorder,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/List_of_psychotropic_medications,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Guanfacine,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Agomelatine,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Buspirone,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+22,2019,https://en.wikipedia.org/wiki/Meta-Chlorophenylpiperazine,How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?,hydroxyzine generalized anxiety disorder,0.0
+27,2019,https://en.wikipedia.org/wiki/Cough,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Pneumonia,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Bronchitis,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Acute_bronchitis,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Bronchiectasis,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Chronic_cough,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Upper_respiratory_tract_infection,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Mycobacterium_avium-intracellulare_infection,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Hydrocarbon_pneumonitis,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+27,2019,https://en.wikipedia.org/wiki/Cold_medicine,Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?,antibiotics children wet cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Whooping_cough,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Bordetella_bronchiseptica,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Medicine_in_the_American_Civil_War,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Bordet%E2%80%93Gengou_agar,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Diphtheria,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Dimetapp,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Leila_Denmark,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Cough,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Antibiotic_use_in_dentistry,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+28,2019,https://en.wikipedia.org/wiki/Bordetella,Can antibiotics be used as a treatment for whooping cough (pertussis)?,antibiotics whooping cough,1.0
+29,2019,https://en.wikipedia.org/wiki/Pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Global_Coalition_Against_Pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Necrotizing_pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Community-acquired_pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Amoxicillin,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Aspiration_pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Lobar_pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Lower_respiratory_tract_infection,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Haemophilus_influenzae,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+29,2019,https://en.wikipedia.org/wiki/Atypical_pneumonia,Can antibiotics be use to treat community acquired pneumonia in children?,antibiotics children pneumonia,1.0
+32,2019,https://en.wikipedia.org/wiki/Ginkgo_biloba,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/Tinnitus_retraining_therapy,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/Tinnitus,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/5-HT1A_receptor,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/Sensorineural_hearing_loss,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/Betahistine,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://de.wikipedia.org/wiki/Ginkgo,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/Doxepin,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://en.wikipedia.org/wiki/Nicergoline,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+32,2019,https://sq.wikipedia.org/wiki/Zhurmat_n%C3%AB_vesh,Can ginkgo biloba treat tinnitus?,ginkgo biloba tinnitus,0.0
+33,2019,https://en.wikipedia.org/wiki/Smoking_cessation,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Hypnosis,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Debate_109,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Allen_Carr,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Hypnotherapy,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Jeffrey_Rose,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Herbert_Spiegel,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Jack_Stanley_Gibson,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Hypnosis_in_works_of_fiction,Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+33,2019,https://en.wikipedia.org/wiki/Chris_Hughes_(hypnotist),Does hypnotherapy help people quit smoking?,hypnotherapy quit smoking,0.0
+34,2019,https://en.wikipedia.org/wiki/Athletic_incontinence,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Urinary_incontinence,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Stress_incontinence,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Arnold_Kegel,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Kegel_exercise,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Fecal_incontinence,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Overactive_bladder,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Cystocele,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Pompoir,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+34,2019,https://en.wikipedia.org/wiki/Uterine_prolapse,How effective are pelvic floor exercises for treating female incontinence?,exercises for female incontinence,1.0
+36,2019,https://en.wikipedia.org/wiki/Dental_sealant,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Talk%3ADental_sealant,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Bis-GMA,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Dental_hygienist,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Teeth_blackening,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://zh.wikipedia.org/wiki/%E7%AA%9D%E6%B2%9F%E5%B0%81%E9%97%AD,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Talk%3AXenoestrogen,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Glass_ionomer_cement,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Dental_therapist,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+36,2019,https://en.wikipedia.org/wiki/Sealant,Are dental sealants helpful in preventing tooth decay?,dental sealants,1.0
+37,2019,https://en.wikipedia.org/wiki/Constipation,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Hemorrhoid,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Docusate,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Liquid_paraffin_(drug),Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Frangula_purshiana,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Lactulose,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Sodium_citrate/sodium_lauryl_sulfoacetate/glycerol,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Preparation_H,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Fecal_impaction,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+37,2019,https://en.wikipedia.org/wiki/Enema,Can taking laxatives help with hemorrhoids?,laxatives hemorrhoids,1.0
+38,2019,https://en.wikipedia.org/wiki/Traction_(orthopedics),Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Hippocratic_bench,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Back_pain,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Low_back_pain,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Transient_synovitis,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Williams_Flexion_Exercises,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Neck_pain,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Radiculopathy,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Brachial_plexus_injury,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+38,2019,https://en.wikipedia.org/wiki/Bronchiectasis,Is lumbar traction an effective treatment for lower back pain?,traction lower back pain,0.0
+39,2019,https://en.wikipedia.org/wiki/Muscle_relaxant,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Methocarbamol,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Sciatica,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Cyclobenzaprine,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Tension_headache,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Orphenadrine,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Thiocolchicoside,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Low_back_pain,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/The_Pen,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+39,2019,https://en.wikipedia.org/wiki/Tolperisone,Can muscle relaxants be used to relieve back pain?,muscle relaxants back pain,1.0
+40,2019,https://en.wikipedia.org/wiki/Cinnamon,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Talk%3ACinnamon%2FArchive_1?redirect=no,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://simple.wikipedia.org/wiki/Cinnamon,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Diabetes_medication,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Cinnamtannin_B1,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Hyperinsulinemia,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Type_2_diabetes,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Tynanthus_guatemalensis,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Diabetes,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+40,2019,https://en.wikipedia.org/wiki/Type_1_diabetes,Can cinnamon help people with diabetes?,cinnamon diabetes,0.0
+41,2019,https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Benzodiazepine,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Benzodiazepine_withdrawal_syndrome,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Kindling_(sedative%E2%80%93hypnotic_withdrawal),Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Post-acute-withdrawal_syndrome,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Delirium_tremens,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Benzodiazepine_dependence,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Effects_of_long-term_benzodiazepine_use,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/Diazepam,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+41,2019,https://en.wikipedia.org/wiki/List_of_benzodiazepines,Can benzos (benzodiazepines) help with alcohol withdrawal?,benzos alcohol withdrawal,1.0
+42,2019,https://en.wikipedia.org/wiki/Dermatitis,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Atopic_dermatitis,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Lacticaseibacillus_rhamnosus,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Probiotic,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Talk%3AAtopic_dermatitis,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Probiotics_in_children,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Mycobacterium_vaccae,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Lactobacillus,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Milk_allergy,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+42,2019,https://en.wikipedia.org/wiki/Vaginitis,Are probiotics an effective treatment for eczema?,probiotics eczema,0.0
+44,2019,https://en.wikipedia.org/wiki/Causes_of_seizures,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Pyridoxine-dependent_epilepsy,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Epilepsy,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Vitamin_D_and_neurology,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Pyridoxine,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Seizure_threshold,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Catamenial_epilepsy,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Vitamin_B6,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+44,2019,https://en.wikipedia.org/wiki/Hypervitaminosis,Can vitamins help manage epilepsy?,vitamins epilepsy,0.0
+45,2019,https://en.wikipedia.org/wiki/Theophylline,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Caffeine_citrate,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Propyphenazone/paracetamol/caffeine,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Caffeine,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/C8H10N4O2,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Analeptic,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Xanthine,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Asthma,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Fasciculation,Can caffeine help people with asthma?,caffeine asthma,1.0
+45,2019,https://en.wikipedia.org/wiki/Bronchodilator,Can caffeine help people with asthma?,caffeine asthma,1.0
+47,2019,https://en.wikipedia.org/wiki/Low_back_pain,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Back_pain,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Heel_lift,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Pes_cavus,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Orthotics,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Rocker_bottom_shoe,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Flat_feet,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Hallux_rigidus,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Magnet_therapy,Can insoles treat back pain?,insoles back pain,0.0
+47,2019,https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome,Can insoles treat back pain?,insoles back pain,0.0
+49,2019,https://en.wikipedia.org/wiki/Sulfasalazine,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/Rheumatoid_arthritis,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/Talk%3ASulfasalazine,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/Disease-modifying_antirheumatic_drug,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/Leflunomide,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://min.wikipedia.org/wiki/Sulfasalazin,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/Ankylosing_spondylitis,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://jv.wikipedia.org/wiki/Sulfasalazin,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/ERA-63,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+49,2019,https://en.wikipedia.org/wiki/Reactive_arthritis,Is sulfasalazine an effective treatment for rheumatoid arthritis?,sulfasalazine rheumatoid arthritis,1.0
+50,2019,https://en.wikipedia.org/wiki/Bariatric_surgery,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Obesity_Surgery,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Surgery_for_Obesity_and_Related_Diseases,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Bariatrics,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Management_of_obesity,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Gastric_bypass_surgery,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Younan_Nowzaradan,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/American_Society_for_Metabolic_%26_Bariatric_Surgery,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Vertical_banded_gastroplasty_surgery,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+50,2019,https://en.wikipedia.org/wiki/Adjustable_gastric_band,Is bariatric surgery effective for obesity?,surgery obesity,1.0
+51,2019,https://en.wikipedia.org/wiki/Asthma,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Kenosha_County_Healthy_Homes_Initiative,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/De%27Longhi,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Allergic_rhinitis,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Atopic_dermatitis,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/After_Hours_(The_Office),Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Dust_mite_allergy,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Indoor_air_quality,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Psyllium,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+51,2019,https://en.wikipedia.org/wiki/Bag_valve_mask,Can dehumidifiers be used to control asthma?,dehumidifiers asthma,0.0
+101,2021,https://en.wikipedia.org/wiki/Achilles_tendon_rupture,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Tendinopathy,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Clubfoot,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Toe_walking,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Peroneal_nerve_paralysis,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Talk%3ATaping,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://no.wikipedia.org/wiki/Tendinose,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+101,2021,https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Lists_of_pages/Articles,Will wearing an ankle brace help heal achilles tendonitis?,ankle brace achilles tendonitis,0.0
+102,2021,https://id.wikipedia.org/wiki/s:Kamus_Melayu-Inggris,Is a tepid sponge bath a good way to reduce fever in children?,tepid sponge bath reduce fever children,0.0
+102,2021,https://en.wikipedia.org/wiki/Wikipedia:Language_learning_centre/Word_list,Is a tepid sponge bath a good way to reduce fever in children?,tepid sponge bath reduce fever children,0.0
+103,2021,https://en.wikipedia.org/wiki/Hyperhomocysteinemia,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Folate,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Nutrition_and_cognition,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Souvenaid,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Vitamin_B12_deficiency,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/B_vitamins,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Subacute_combined_degeneration_of_spinal_cord,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Dementia,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+103,2021,https://en.wikipedia.org/wiki/Nutritional_neuroscience,Can folic acid help improve cognition and treat dementia?,folic acid dementia,0.0
+104,2021,https://en.wikipedia.org/wiki/Duct_tape_occlusion_therapy,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Talk%3ADuct_tape_occlusion_therapy,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Duct_tape,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Wart,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/DTOT,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Plantar_wart,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://fr.wikipedia.org/wiki/Duct_tape,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Talk%3APlantar_wart,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Talk%3AList_of_American_words_not_widely_used_in_the_United_Kingdom/Archive_1,Does duct tape work for wart removal?,duct tape warts,0.0
+104,2021,https://en.wikipedia.org/wiki/Occlusion_training,Does duct tape work for wart removal?,duct tape warts,0.0
+105,2021,https://en.wikipedia.org/wiki/Salt_and_ice_challenge,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Aerosol_burn,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Frostbite,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Friction_burn,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Hydrogen_internal_combustion_engine_vehicle,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Temperature_play,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Burn,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Glossary_of_Mafia-related_words,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Dry_ice,Should I apply ice to a burn?,put ice on a burn,0.0
+105,2021,https://en.wikipedia.org/wiki/Dry_ice_bomb,Should I apply ice to a burn?,put ice on a burn,0.0
+106,2021,https://en.wikipedia.org/wiki/Vitiligo,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.wikipedia.org/wiki/Premature_greying_of_hair,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.wikipedia.org/wiki/Human_hair_color,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.wikipedia.org/wiki/Acne,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.wikipedia.org/wiki/Aphthous_stomatitis,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.wikipedia.org/wiki/Livedo_reticularis,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://nl.wikipedia.org/wiki/Vitiligo,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://sh.wikipedia.org/wiki/Vitiligo,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.m.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Dermatology_task_force/ILDS-ICD,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+106,2021,https://en.wikipedia.org/wiki/Biological_pigment,Can vitamin b12 and sun exposure together help treat vitiligo?,vitamin b12 sun exposure vitiligo,1.0
+107,2021,https://en.wikipedia.org/wiki/Asthma,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Jayadeva_Yogendra,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Buteyko_method,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Asana,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Azodicarbonamide,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Pranayama,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/N._V._Raghuram,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Talk%3AYoga%2FArchive_7,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/H._R._Nagendra,Does yoga improve the management of asthma?,yoga asthma,1.0
+107,2021,https://en.wikipedia.org/wiki/Joseph_Pilates,Does yoga improve the management of asthma?,yoga asthma,1.0
+108,2021,https://en.wikipedia.org/wiki/Talk%3AOld_wives'_tale,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Sonnet_147,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Language/2008_June_4,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Protein_poisoning,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Starvation,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/List_of_proverbial_phrases,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Donner_Party,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,"https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis,_Louis",Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Pinworm_infection,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+108,2021,https://en.wikipedia.org/wiki/Slave_health_on_plantations_in_the_United_States,Is starving a fever effective?,"starve a fever, feed a cold",0.0
+109,2021,https://en.wikipedia.org/wiki/Selenium_and_Vitamin_E_Cancer_Prevention_Trial,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Selenium_responsive_proteins,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Cypress_Systems,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Selenium_in_biology,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Methylselenocysteine,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Selenium,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/SELENBP1,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Methaneseleninic_acid,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Prostate_cancer,Does selenium help prevent cancer?,selenium cancer,0.0
+109,2021,https://en.wikipedia.org/wiki/Xeroradiography,Does selenium help prevent cancer?,selenium cancer,0.0
+110,2021,https://en.wikipedia.org/wiki/Ovarian_cyst,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Endometriosis,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Ethinylestradiol/cyproterone_acetate,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Ovarian_disease,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Hirsutism,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Oophorectomy,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Corpus_luteum_cyst,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Dienogest,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+110,2021,https://en.wikipedia.org/wiki/Hyperandrogenism,Will taking birth control pills treat an ovarian cyst?,birth control pill ovarian cysts treatment,0.0
+111,2021,https://en.wikipedia.org/wiki/Nutrition_and_pregnancy,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Zinc_deficiency,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Zinc_sulfate_(medical_use),Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Zinc_toxicity,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Zinc,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Multivitamin,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Zinc_L-carnosine,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Vegan_nutrition,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Diarrhea,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+111,2021,https://en.wikipedia.org/wiki/Dysgeusia,Will taking zinc supplements improve pregnancy? ,zinc supplements pregnancy,0.0
+112,2021,https://en.wikipedia.org/wiki/Oenothera_biennis,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Oenothera,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Borage_seed_oil,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/David_Horrobin,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Talk%3AOenothera,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Dermatitis,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Gamma-Linolenic_acid,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Talk%3AAtopic_dermatitis,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Talk%3AGamma-Linolenic_acid,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+112,2021,https://en.wikipedia.org/wiki/Salicylate_sensitivity,Can evening primrose oil help treat eczema?,evening primrose oil eczema,0.0
+113,2021,https://en.wikipedia.org/wiki/Ankle_brace,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Sprained_ankle,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Splint_(medicine),Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Ottawa_ankle_rules,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Ankle,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Traction_splint,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Foot_drop,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Walking_boot,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Peroneal_nerve_paralysis,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+113,2021,https://en.wikipedia.org/wiki/Ilizarov_apparatus,Do ankle braces help heal an ankle fracture? ,ankle brace broken ankle,1.0
+114,2021,https://en.wikipedia.org/wiki/Vitamin_E,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/%CE%91-Tocopheryl_acetate,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Scar,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Stretch_marks,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Acne,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Keloid,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Hyperkeratosis,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Wound_healing,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Hyperpigmentation,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+114,2021,https://en.wikipedia.org/wiki/Vitamin_C,Can applying vitamin E cream remove skin scars?,vitamin e cream for skin scars,0.0
+115,2021,https://en.wikipedia.org/wiki/Migraine,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Neurogenic_inflammation,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Talk%3AMagnesium_oxide,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Migraine_treatment,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Magnesium_deficiency,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Magnesium,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Valproate,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Antimigraine_drug,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Sexual_headache,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+115,2021,https://en.wikipedia.org/wiki/Hypermagnesemia,Can magnesium help prevent migraine?,magnesium migraine prevention,1.0
+116,2021,https://en.wikipedia.org/wiki/Diabetes,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Diabetes_and_exercise,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Type_2_diabetes,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Gestational_diabetes,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Double_diabetes,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Epigenetics_of_physical_exercise,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Exercise_prescription,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Type_1_diabetes,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Diabetes_management,Does exercise help manage diabetes?,exercise diabetes,1.0
+116,2021,https://en.wikipedia.org/wiki/Juleen_Zierath,Does exercise help manage diabetes?,exercise diabetes,1.0
+117,2021,https://en.wikipedia.org/wiki/Lactobacillus_helveticus,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Lactotripeptides,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Tyramine,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/ACE_inhibitor,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Amasi,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Lactic_acid,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Chymosin,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Milk,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Fermentation,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+117,2021,https://en.wikipedia.org/wiki/Yakult,Can fermented milk help mitigate high blood pressure?,fermented milk blood pressure,0.0
+118,2021,https://en.wikipedia.org/wiki/Dupilumab,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://en.wikipedia.org/wiki/Atopic_dermatitis,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://es.wikipedia.org/wiki/Dupilumab,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://en.wikipedia.org/wiki/Id_reaction,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://de.wikipedia.org/wiki/Dupilumab,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://en.wikipedia.org/wiki/Vacuolar_interface_dermatitis,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://en.wikipedia.org/wiki/Chronic_actinic_dermatitis,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://en.wikipedia.org/wiki/Prurigo_nodularis,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%8C%B9%E9%B2%81%E5%8D%95%E6%8A%97,Can dupixent treat eczema?,dupixent eczema,1.0
+118,2021,https://en.wikipedia.org/wiki/Gary_Hudson_(actor),Can dupixent treat eczema?,dupixent eczema,1.0
+119,2021,https://en.wikipedia.org/wiki/Yoga_using_props,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/Judith_Hanson_Lasater,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/Accessible_yoga,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wikipedia/en/A/Special:Search?title=John_Ebnezar&mobileaction=toggle_view_desktop,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/Yoga_as_therapy,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/Yoga_for_movement_disorders,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/Iyengar_Yoga,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/H._R._Nagendra,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/N._V._Raghuram,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+119,2021,https://en.wikipedia.org/wiki/Rheumatoid_arthritis,Does yoga help reduce pain from arthritis and improve physical function?,yoga arthritis,1.0
+120,2021,https://en.wikipedia.org/wiki/Sumatriptan,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Triptan,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Discovery_and_development_of_triptans,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Sumatriptan/naproxen,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Talk%3AMedication_overuse_headache,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Cluster_headache,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Patrick_Humphrey,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Naratriptan,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Talk%3ACarcinoid_syndrome,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+120,2021,https://en.wikipedia.org/wiki/Ditan,Can the drug Imitrex (sumatriptan) treat acute migraine attacks?,imitrex migraine,1.0
+121,2021,https://en.wikipedia.org/wiki/Light_therapy,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Seasonal_affective_disorder,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Occupational_therapy_in_the_management_of_seasonal_affective_disorder,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://jbo.m.wikipedia.org/wiki/datnyvei:Bright_light_lamp.jpg,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Management_of_depression,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Full-spectrum_light,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Delayed_sleep_phase_disorder,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Artificial_sunlight,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://simple.wikipedia.org/wiki/Seasonal_affective_disorder,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+121,2021,https://en.wikipedia.org/wiki/Lighting_for_the_elderly,Will buying a light therapy lamp help treat depression?,light therapy lamp depression,1.0
+122,2021,https://en.wikipedia.org/wiki/Naproxen,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Magnesium_salicylate,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Midol,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Ibuprofen,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Stella_Nickell,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Dexketoprofen,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Concussion,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Prostaglandin_inhibitors,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Aspirin,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+122,2021,https://en.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions,Does Aleve relieve migraine headaches?,aleve migraine,0.0
+123,2021,https://en.wikipedia.org/wiki/Angular_cheilitis,Can I get rid of a pimple overnight by applying toothpaste?,toothpaste pimple overnight,0.0
+123,2021,https://en.wikipedia.org/wiki/Cheilitis,Can I get rid of a pimple overnight by applying toothpaste?,toothpaste pimple overnight,0.0
+123,2021,https://en.wikipedia.org/wiki/Bump_in_the_Night_(TV_series),Can I get rid of a pimple overnight by applying toothpaste?,toothpaste pimple overnight,0.0
+123,2021,https://en.wikipedia.org/wiki/Cold_cream,Can I get rid of a pimple overnight by applying toothpaste?,toothpaste pimple overnight,0.0
+123,2021,https://en.wikipedia.org/wiki/Wikipedia:Language_learning_centre/Word_list,Can I get rid of a pimple overnight by applying toothpaste?,toothpaste pimple overnight,0.0
+124,2021,https://en.wikipedia.org/wiki/Chondroitin_sulfate,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Chondroitin,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Clinical_trials_on_glucosamine_and_chondroitin,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Glucosamine,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Osteoarthritis,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Polysulfated_glycosaminoglycan,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Methylsulfonylmethane,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Hip_dysplasia_(canine),Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Diacerein,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+124,2021,https://en.wikipedia.org/wiki/Cosequin,Can chondroitin help relieve the pain of osteoarthritis?,"
+chondroitin supplement osteoarthritis joint disorder
+",1.0
+125,2021,https://en.wikipedia.org/wiki/Omega-3_acid_ethyl_esters,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Omega-3_fatty_acid,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Fish_oil,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Omega-3_carboxylic_acids,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Ethyl_eicosapentaenoic_acid,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Eicosapentaenoic_acid,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Fatty-acid_metabolism_disorder,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Hypertriglyceridemia,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Eicosanoid,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+125,2021,https://en.wikipedia.org/wiki/Fat,Can omega-3 help manage hypertriglyceridemia?,omega-3 fatty acids hypertriglyceridemia,1.0
+126,2021,https://es.wikipedia.org/wiki/Wikiproyecto:Medicina/Cochrane/revision,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Upper_respiratory_tract_infection,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Probiotic,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Candidiasis,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Ventilator-associated_pneumonia,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Streptococcus_salivarius,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Antibiotic,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Otitis_media,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Neonatal_infection,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+126,2021,https://en.wikipedia.org/wiki/Neonatal_sepsis,Can probiotics prevent respiratory infections?,probiotics prevention respiratory infections,1.0
+127,2021,https://en.wikipedia.org/wiki/Magnet_therapy,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://en.wikipedia.org/wiki/Apitherapy,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://en.wikipedia.org/wiki/Doctor_of_Naprapathic_Medicine,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://en.wikipedia.org/wiki/Spa,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://ia.wikipedia.org/wiki/2016-06,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,"https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Cochrane/Cochrane_Review_List/Musculoskeletal,_Oral,_Skin_and_Sensory/List_of_Reviews_used_in_Wikipedia_articles",Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://en.wikipedia.org/wiki/Cannabis_(drug),Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://en.wikipedia.org/wiki/Talk%3AAcupuncture%2Fsandbox,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+127,2021,https://es.wikipedia.org/wiki/Wikiproyecto:Medicina/Cochrane/revision,Can aromatherapy massage help manage rheumatoid arthritis?,aromatherapy massage rheumatoid arthritis,1.0
+128,2021,https://en.wikipedia.org/wiki/Talk%3ACroup,Does steam from a shower help croup?,steam shower croup,0.0
+128,2021,https://en.wikipedia.org/wiki/Vicks,Does steam from a shower help croup?,steam shower croup,0.0
+128,2021,https://en.wikipedia.org/wiki/VR_Group,Does steam from a shower help croup?,steam shower croup,0.0
+128,2021,https://simple.wikipedia.org/wiki/Breath_sounds,Does steam from a shower help croup?,steam shower croup,0.0
+128,2021,https://en.wikipedia.org/wiki/Wikipedia:Language_learning_centre/Word_list,Does steam from a shower help croup?,steam shower croup,0.0
+128,2021,https://en.wikipedia.org/wiki/Wikipedia:Good_articles/all,Does steam from a shower help croup?,steam shower croup,0.0
+128,2021,https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/List_of_all_articles,Does steam from a shower help croup?,steam shower croup,0.0
+129,2021,https://en.wikipedia.org/wiki/Minoxidil,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Hair_loss,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Management_of_hair_loss,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Simpson_and_Delilah,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Pattern_hair_loss,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Non_scarring_hair_loss,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Telogen_effluvium,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Alopecia_areata,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Alfatradiol,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+129,2021,https://en.wikipedia.org/wiki/Scarring_hair_loss,Can minoxidil treat hair loss?,minoxidil balding hair growth,1.0
+130,2021,https://en.wikipedia.org/wiki/Hoxsey_Therapy,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Hoxsey,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Talk%3AHoxsey_Therapy,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Virginia_v._Cherrix,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Category:Alternative_cancer_treatments,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/File:FDAHoxsey.JPG,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Kenny_Ausubel,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Eva_Hill,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+130,2021,https://en.wikipedia.org/wiki/Mohs_surgery,Is the Hoxsey treatment a good cure for cancer?,hoxsey treatment,0.0
+131,2021,https://en.wikipedia.org/wiki/Theanine,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Dopaminergic,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Talk%3ATheanine,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Nootropic,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Caffeine,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Phenibut,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/5-Hydroxytryptophan,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Rhodiola_rosea,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+131,2021,https://en.wikipedia.org/wiki/Phosphatidylserine,Can l-theanine supplements reduce stress and anxiety?,l-theanine supplements anxiety,1.0
+132,2021,https://en.wikipedia.org/wiki/Alternative_treatments_used_for_the_common_cold,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Alcohol_inhalation,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Lycoperdonosis,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Nebulizer,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Breathing,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Inhaler,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Vicks,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/List_of_unproven_methods_against_COVID-19,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Peppermint_extract,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+132,2021,https://en.wikipedia.org/wiki/Talk%3ACommon_cold/Archive_1,Does inhaling steam help treat common cold?,inhaling steam common cold,0.0
+133,2021,https://en.wikipedia.org/wiki/Management_of_depression,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Exercise,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/ST_depression,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.m.wikipedia.org/wiki/File:Twin_Study_MZ_discordant_test_of_hypothesis_that_exercise_protects_against_depression.png,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Major_depressive_disorder,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Antenatal_depression,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Benefits_of_physical_activity,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Exercise_prescription,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+133,2021,https://en.wikipedia.org/wiki/Exercise_medicine,Does exercise improve the symptoms of depression? ,exercise depression,1.0
+134,2021,https://en.wikipedia.org/wiki/Dermatobia_hominis,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Tick,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Desiccator,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Bag_Balm,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Grease_(lubricant),Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Tungiasis,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/List_of_Procter_%26_Gamble_brands,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Isopropyl_myristate,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Flash_powder,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+134,2021,https://en.wikipedia.org/wiki/Benzyl_benzoate,Can I remove a tick by covering it with Vaseline?,remove tick with vaseline,0.0
+135,2021,https://en.wikipedia.org/wiki/Lice_(The_Office),Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Treatment_of_human_lice,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Head_lice_infestation,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Talk%3ATreatment_of_human_head_lice,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Undercover_Brother,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Trombiculidae,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Jack_LaLanne,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Bacon,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://fr.wikipedia.org/wiki/Fichier:Fresh_mayonnaise.jpg,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+135,2021,https://en.wikipedia.org/wiki/Flannery_O%27Connor,Can applying mayonnaise help get rid of lice?,mayonnaise lice treatment,0.0
+136,2021,https://en.wikipedia.org/wiki/File:Iron_deficiency_anemia.jpg,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.m.wikipedia.org/wiki/File:Severe_iron_deficiency_anemia.jpg,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.m.wikipedia.org/wiki/File:Iron_deficiency_anemia.jpg,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.wikipedia.org/wiki/Iron_deficiency,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,"https://en.m.wikipedia.org/wiki/File:Iron-deficiency_Anemia,_Peripheral_Blood_Smear_(4422704616).jpg",Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.wikipedia.org/wiki/File:Severe_iron_deficiency_anemia.jpg,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.wikipedia.org/wiki/Iron-deficiency_anemia,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.wikipedia.org/wiki/Red_blood_cell_distribution_width,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.wikipedia.org/wiki/Anemia,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+136,2021,https://en.wikipedia.org/wiki/Lucky_iron_fish,Can eating dates help manage iron deficiency anemia?,dates iron deficiency anemia,1.0
+137,2021,https://en.wikipedia.org/wiki/Xylospongium,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Mee_pok,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Cockle_(bivalve),Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/List_of_German_dishes,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Stingray_injury,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/List_of_Silent_Library_episodes,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Tantalus,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Cajun_cuisine,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Pizzle,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+137,2021,https://en.wikipedia.org/wiki/Wine_gum,Will drinking vinegar dissolve a stuck fish bone?,vinegar fish bone stuck,0.0
+138,2021,https://en.wikipedia.org/wiki/Zinc_and_the_common_cold,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Common_cold,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Zinc_gluconate,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Metal_fume_fever,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Zicam,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Zinc,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Talk%3AZinc/Archive_1?useFormat=mobile,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Talk%3ACommon_cold%2FArchive_4,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Alternative_treatments_used_for_the_common_cold,Can zinc help treat the common cold?,zinc common cold,1.0
+138,2021,https://en.wikipedia.org/wiki/Zinc_toxicity,Can zinc help treat the common cold?,zinc common cold,1.0
+139,2021,https://en.wikipedia.org/wiki/Magnet_therapy,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Rheumatoid_arthritis,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Copper_toxicity,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Dental_braces,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Jewellery,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Gua_sha,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Porphyria,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+139,2021,https://en.wikipedia.org/wiki/Hypochromic_anemia,Can copper bracelets reduce the pain of arthritis?,copper bracelets reduce pain,0.0
+140,2021,https://en.wikipedia.org/wiki/Athlete%27s_foot,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Antifungal,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Onychomycosis,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Trichophyton_rubrum,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Dermatophytosis,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Clotrimazole,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Miconazole,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Two_feet-one_hand_syndrome,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Tolnaftate,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+140,2021,https://en.wikipedia.org/wiki/Epidermophyton_floccosum,Can fungal creams treat athlete's foot?,fungal cream athlete's foot,1.0
+141,2021,https://en.wikipedia.org/wiki/Shea_butter,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/Signs_and_symptoms_of_pregnancy,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/Baby_Ruth,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/Coconut,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/List_of_Silent_Library_episodes,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/Keloid,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/List_of_Guy%27s_Grocery_Games_episodes,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/List_of_portmanteaus,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/List_of_hip_hop_musicians,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+141,2021,https://en.wikipedia.org/wiki/Venezuela,Does cocoa butter help reduce pregnancy stretch marks?,cocoa butter reduce pregnancy stretch marks,0.0
+142,2021,https://en.wikipedia.org/wiki/Diarrhea,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Antibiotic-associated_diarrhea,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Probiotics_in_children,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Clostridioides_difficile_infection,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Gastroenteritis,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Probiotic,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Travelers%27_diarrhea,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Antibiotic,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Otitis_media,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+142,2021,https://en.wikipedia.org/wiki/Chronic_diarrhea_of_infancy,Can probiotics prevent diarrhea caused by antibiotics in children?,probiotics child diarrhea caused by antibiotics ,1.0
+143,2021,https://en.wikipedia.org/wiki/Paracetamol,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Arthritis,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Acemetacin,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Arthritis_Foundation,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Nimesulide,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Analgesic,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Aceclofenac,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Ibuprofen,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+143,2021,https://en.wikipedia.org/wiki/Fenoprofen,Does Tylenol manage the symptoms of osteoarthritis?,tylenol osteoarthritis,1.0
+144,2021,https://en.wikipedia.org/wiki/Music_therapy,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Management_of_depression,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Music_as_a_coping_strategy,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Music_therapy_for_Alzheimer%27s_disease,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Expressive_therapies,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Audio_therapy,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Talk%3AManagement_of_depression%2FArchive_1?redirect=no,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Cinema_therapy,Can music therapy help manage depression?,music therapy depression,1.0
+144,2021,https://en.wikipedia.org/wiki/Bipolar_II_disorder,Can music therapy help manage depression?,music therapy depression,1.0
+145,2021,https://en.wikipedia.org/wiki/Borderline_personality_disorder,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Talk%3AOmega-3_fatty_acid/Archive_2,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Emotional_lability,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Depression_(mood),Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Management_of_borderline_personality_disorder,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Talk%3ABipolar_disorder%2FArchive_4,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Clonidine,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Dennis_Reynolds,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Bipolar_disorder,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+145,2021,https://en.wikipedia.org/wiki/Talk%3AMajor_depressive_disorder%2FArchive_10,Can omega-3 treat borderline personality disorder in women?,omega 3 borderline personality disorder,1.0
+146,2021,https://en.wikipedia.org/wiki/Asthma,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/University_of_Pittsburgh_Epidemiology_Data_Center,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Autoimmune_disease,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Mometasone,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Exercise-induced_bronchoconstriction,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/List_of_medical_mnemonics,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Montelukast,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Omega-3_fatty_acid,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+146,2021,https://en.wikipedia.org/wiki/Psoriasis,Can vitamin D supplements improve the management of asthma?,vitamin d asthma attacks,1.0
+147,2021,https://en.wikipedia.org/wiki/Soy_formula,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Milk_allergy,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Soy_allergy,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Infant_formula,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Allergies_in_children,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Food_allergy,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Latex_allergy,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Similac,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/2022_United_States_infant_formula_shortage,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+147,2021,https://en.wikipedia.org/wiki/Egg_allergy,Will feeding soy formula to my baby prevent the development of allergies?,baby soy formula prevent allergies,0.0
+148,2021,https://en.wikipedia.org/wiki/Chitosan,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/HeightMax,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://zh.wikipedia.org/zh-hant/%E5%A3%B3%E8%81%9A%E7%B3%96,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/Hydrogel,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/Dietary_fiber,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/Sodium_polyacrylate,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/Wax_ester,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/Lay%27s_WOW_chips,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://zh.wikipedia.org/wiki/%E5%A3%B3%E8%81%9A%E7%B3%96,Does chitosan help lose body weight?,chitosan weight loss,0.0
+148,2021,https://en.wikipedia.org/wiki/Nafion,Does chitosan help lose body weight?,chitosan weight loss,0.0
+149,2021,https://en.wikipedia.org/wiki/Osteoarthritis,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Hip_replacement,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Hip_pain,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Continuous_passive_motion,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Arthritis,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Hip_dysplasia_(canine),Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Obesity,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Knee_pain,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Femoroacetabular_impingement,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+149,2021,https://en.wikipedia.org/wiki/Whole-body_vibration,Will at-home exercises manage hip osteoarthritis pain?,hip osteoarthritis at-home exercises,1.0
+150,2021,https://en.wikipedia.org/wiki/Tocopherol,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Male_infertility,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Fertility_medication,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Vitamin,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Dietary_supplement,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Vitamin_E,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/MonaVie,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Protandim,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Coenzyme_Q10,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+150,2021,https://en.wikipedia.org/wiki/Melatonin,Will taking antioxidant supplements treat fertility problems?,antioxidant supplements fertility,0.0
+201,misbelief,https://en.wikipedia.org/wiki/Ukrain,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/Chelidonium_majus,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/Chelerythrine,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://so.wikipedia.org/wiki/Ukrain,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/Wart,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/List_of_herbs_with_known_adverse_effects,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/Chronic_liver_disease,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD,Does celandine help with cancer?,celandine help cancer,0.0
+201,misbelief,https://en.wikipedia.org/wiki/List_of_poisonous_plants,Does celandine help with cancer?,celandine help cancer,0.0
+202,misbelief,https://en.wikipedia.org/wiki/Monsters_Inside_Me,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/Varicose_veins,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/List_of_Monsters_Inside_Me_episodes,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/Constipation,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/List_of_traditional_Chinese_medicines,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/History_of_surgery,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/Surgery_in_ancient_Rome,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Recognized_content,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://id.wikipedia.org/wiki/s:Kamus_Melayu-Inggris,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+202,misbelief,https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/List_of_all_articles,Can hemorrhoids be cured with leeches?,hemorrhoids cured leeches,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Hepatitis_C,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Hepatitis,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Alcoholic_liver_disease,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Feline_hepatic_lipidosis,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Chronic_liver_disease,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Non-alcoholic_fatty_liver_disease,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://simple.wikipedia.org/wiki/Hepatitis_C,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Amatoxin,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Gallstone,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+203,misbelief,https://en.wikipedia.org/wiki/Amanita_phalloides,Can hepatitis be cured with milk thistle?,hepatitis cured milk thistle,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Lichen_sclerosus,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Cracked_nipple,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Horse_management,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/November_2013,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://simple.wikipedia.org/wiki/Cracked_nipples,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/List_of_species_and_habitats_of_principal_importance_in_England,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Wikipedia:Language_learning_centre/Word_list,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Dresano,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://ht.wikipedia.org/wiki/Pwent_tete_ki_f%C3%A8_mal,Does chamomile help with thrush?,chamomile help thrush,0.0
+204,misbelief,https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/August-2012,Does chamomile help with thrush?,chamomile help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Candidiasis,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Vaginal_yeast_infection,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Ketoconazole,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Thallium_poisoning,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Hare_%C3%A0_la_royale,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Clotrimazole,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Common_blackbird,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Creamed_corn,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Clyde_Valley_Woodlands_National_Nature_Reserve,Does garlic help with thrush?,garlic help thrush,0.0
+205,misbelief,https://en.wikipedia.org/wiki/Alex_Skolnick,Does garlic help with thrush?,garlic help thrush,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Nasal_spray,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Aquaphor,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Traditional_healers_of_Southern_Africa,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Salicylate_sensitivity,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/%27Allo_%27Allo!,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Frostbite,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/L0_Series,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/List_of_plants_by_common_name,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Plymouth_Superbird,Does aloe help for a runny nose?,aloe help runny nose,0.0
+206,misbelief,https://en.wikipedia.org/wiki/Snorkeling,Does aloe help for a runny nose?,aloe help runny nose,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Toothache,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Acmella_oleracea,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Onion,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Phossy_jaw,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/List_of_plants_used_in_herbalism,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Clove,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Traditional_Chinese_medicine,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/List_of_Curious_George_episodes,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/List_of_Young_Dracula_episodes,Does garlic help with toothache?,garlic help toothache,0.0
+207,misbelief,https://en.wikipedia.org/wiki/Witches_(Discworld),Does garlic help with toothache?,garlic help toothache,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Caffeine,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Energy_drink,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Coffee,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Caffeine_dependence,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Nutrition_and_pregnancy,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Health_effects_of_coffee,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Morgan_Eckroth,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Inka_(drink),Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Due_Date,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+208,misbelief,https://en.wikipedia.org/wiki/Food_and_drink_prohibitions,Can pregnant women drink coffee?,pregnant drink coffee,0.0
+209,misbelief,https://en.wikipedia.org/wiki/GABA_tea,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Green_tea,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Hypertension,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Health_effects_of_tea,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Diabetes,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Theanine,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Dexatrim,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Sodium_nitroprusside,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Longjing_tea,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+209,misbelief,https://en.wikipedia.org/wiki/Caffeine,Can green tea reduce blood pressure?,green tea reduce blood pressure,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Ginger_tea,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Throat_lozenge,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Stoney_(drink),Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Vernors,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Ginger_ale,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Tetradenia_riparia,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Curcuma_amada,Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Lean_(drug),Does ginger help with cough?,ginger help cough,1.0
+210,misbelief,https://en.wikipedia.org/wiki/Fisherman%27s_Friend,Does ginger help with cough?,ginger help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Liquorice,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Salty_liquorice,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Throat_lozenge,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Paregoric,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Ligusticum_porteri,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Demulcent,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Root_beer,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Helichrysum_petiolare,Does licorice root help with cough?,licorice root help cough,1.0
+211,misbelief,https://en.wikipedia.org/wiki/Moxie,Does licorice root help with cough?,licorice root help cough,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Airborne_(dietary_supplement),Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Rudbeckia_hirta,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Herbal_tea,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Native_American_ethnobotany,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Aphrodisiac,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Dietary_supplement,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://hi.wikipedia.org/wiki/%E0%A4%94%E0%A4%B7%E0%A4%A7%E0%A5%80%E0%A4%AF_%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%AA%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Monarch_butterfly,Does echinacea boost immunity?,echinacea boost immunity,1.0
+212,misbelief,https://en.wikipedia.org/wiki/Talk%3ABody_cleansing/Archive_1,Does echinacea boost immunity?,echinacea boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Weight_loss,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Aphrodisiac,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Pineapple,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Rasayana,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/SAV001,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Roselle_juice,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Cymbopogon,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_methods_against_COVID-19,Does honey boost immunity?,honey boost immunity,1.0
+213,misbelief,https://en.wikipedia.org/wiki/Garlic,Does honey boost immunity?,honey boost immunity,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Garlic,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Cat_health,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(1964_film),Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/I_Am_Legend_(novel),Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Dragon_Ball_Z_(season_4),Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Vampire,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Common_cold,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Botulism,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Scurvy,Does garlic kill viruses?,garlic kill viruses,1.0
+214,misbelief,https://en.wikipedia.org/wiki/Food_irradiation,Does garlic kill viruses?,garlic kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Food_irradiation,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Cat_health,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Cassava_mosaic_virus,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/List_of_unproven_methods_against_COVID-19,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Scurvy,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Columbian_exchange,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Garlic,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Canine_distemper,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Aster_yellows,Does onion kill viruses?,onion kill viruses,1.0
+215,misbelief,https://en.wikipedia.org/wiki/Cacao_swollen_shoot_virus,Does onion kill viruses?,onion kill viruses,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Health_effects_of_tobacco,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Smoking,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Preventable_causes_of_death,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Tobacco_smoking,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Passive_smoking,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Smoke_inhalation,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Tobacco_packaging_warning_messages,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Death_in_the_West,Does smoking cause death?,smoking causes death,1.0
+1_h,health_belief,https://en.wikipedia.org/wiki/Pop_Smoke,Does smoking cause death?,smoking causes death,1.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Ageing,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Wrinkle,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Anti-aging_product,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Advanced_glycation_end-product,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Skin_care,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Collagen_loss,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Photoaging,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Senescence,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Liver_spot,Does skin product cause aging?,skin product causes aging,0.0
+2_h,health_belief,https://en.wikipedia.org/wiki/Human_skin,Does skin product cause aging?,skin product causes aging,0.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Smokeless_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Smokeless_tobacco_keratosis,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Gruen_Von_Behrens,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Snuff_(tobacco),Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Snus,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Dipping_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Chewing_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Head_and_neck_cancer,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+5_h,health_belief,https://en.wikipedia.org/wiki/Health_effects_of_tobacco,Does smokeless tobacco cause cancer?,smokeless tobacco causes cancer,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Major_depressive_disorder,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Treatment-resistant_depression,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Epigenetics_of_depression,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Antidepressant,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Animal_models_of_depression,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Antidepressant_discontinuation_syndrome,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Antidepressants_and_suicide_risk,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Pseudodementia,Does antidepressant cause depression?,antidepressant causes depression,1.0
+6_h,health_belief,https://en.wikipedia.org/wiki/Tricyclic_antidepressant,Does antidepressant cause depression?,antidepressant causes depression,1.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Milk-alkali_syndrome,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Osteoblast_milk_protein,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Osteoporosis,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Vitamin_D,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Talk%3AOsteoporosis,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Acid_ash_hypothesis,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Vitamin_D_deficiency,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Galactorrhea_hyperprolactinemia,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
+10_h,health_belief,https://en.wikipedia.org/wiki/Prolactinoma,Does milk cause osteoporosis?,milk causes osteoporosis,0.0
