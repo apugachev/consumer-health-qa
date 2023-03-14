@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.1
+datasets==2.7.1
+pandas==1.4.3
+progressbar2==4.0.0
+selenium==4.5.0
+scikit-learn==1.1.2
+simpletransformers==0.63.9
+torch==1.12.1
+transformers==4.21.1
