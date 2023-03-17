@@ -1,6 +1,6 @@
 # Consumer Health Question Answering Using Off-the-shelf Components
 
-Source code and files for *Consumer Health Question Answering Using Off-the-shelf Components* [[Paper](https://webis.de/publications.html?q=pugachev_2023)] accepted on [ECIR 2023 Conference](https://ecir2023.org/home.html)
+Source code and files for the *Consumer Health Question Answering Using Off-the-shelf Components* [[Paper](https://webis.de/publications.html?q=pugachev_2023)] accepted at the [ECIR 2023 Conference](https://ecir2023.org/home.html)
 
 - `data`: 
   - raw xml data (`search_topics` folder)
